@@ -86,3 +86,5 @@
 16. untracked file 과 directory 를 모두 삭제하기
 
 >git  clean  -fd
+
+17.어쩌구 저쩌구
